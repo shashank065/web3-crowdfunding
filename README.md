@@ -2,6 +2,14 @@
 
  Web3 Crowdfunding solution takes the standard crowdfunding platform features, and adds Securitize’s tokenization-first approach to deliver a Web3-focused investor experience. This solution allows you to easily invite your customers and fans to participate in your offering, compliantly onboard them as investors through KYC and AML protocols, sign all documentation and invest in your fundraise — all from within their digital wallet.
 
+
+
+![Genesis Project](./screenshots/0.gif)
+
+![Genesis Project](./screenshots/1.gif)
+
+
+
 ## Technology
 
 This demo uses:
