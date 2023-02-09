@@ -1,13 +1,6 @@
 # Web3 Crowd-Funding Platform with React, Solidity,
 
 
-
-![Genesis Project](./screenshots/0.gif)
-<center><figcaption>Genesis Project</figcaption></center>
-
-![Genesis Project](./screenshots/1.gif)
-<center><figcaption>Back Project</figcaption></center>
-
 ## Technology
 
 This demo uses:
