@@ -1,4 +1,4 @@
-# Web3 Crowd-Funding Platform with React, Solidity,
+# Web3 Crowd-Funding Platform with React, Solidity
 
 
 ## Technology
