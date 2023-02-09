@@ -49,7 +49,7 @@ To run the demo follow these steps:
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
+
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
 - 💡 [Hardhat](https://hardhat.org/)
@@ -58,5 +58,5 @@ To run the demo follow these steps:
 - 🐻 [Solidity](https://soliditylang.org/)
 - 👀 [EthersJs](https://docs.ethers.io/v5/)
 - 🎅 [Faucet](https://faucets.chain.link/rinkeby)
-- 🤖 [CometChat](https://cometchat.com/)
-- ✨ [Live Demo](https://genesis-45443.web.app/)
+
+
