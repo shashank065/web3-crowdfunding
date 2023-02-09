@@ -1,9 +1,6 @@
 # Web3 Crowd-Funding Platform with React, Solidity
-[web3-crowdfunding](./screenshots/0.gif)
-<center><figcaption>Genesis Project</figcaption></center>
 
-[web3-crowdfunding](./screenshots/1.gif)
-<center><figcaption>Back Project</figcaption></center>
+ Web3 Crowdfunding solution takes the standard crowdfunding platform features, and adds Securitize’s tokenization-first approach to deliver a Web3-focused investor experience. This solution allows you to easily invite your customers and fans to participate in your offering, compliantly onboard them as investors through KYC and AML protocols, sign all documentation and invest in your fundraise — all from within their digital wallet.
 
 ## Technology
 
